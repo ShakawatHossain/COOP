@@ -20,4 +20,5 @@
             Nam non neque nec justo cursus accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur iaculis vestibulum euismod. Suspendisse quis scelerisque tellus, ac viverra nibh. Fusce placerat dignissim enim, nec ornare dui mattis et. Vestibulum ut magna lorem. Suspendisse in eros accumsan eros consectetur pellentesque nec ut mi. Nullam non orci est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tristique arcu ornare, fringilla metus vitae, posuere sem. Proin vitae aliquet lacus, non pretium nisi. Pellentesque vel fermentum elit. In vulputate maximus ligula vel convallis. Curabitur laoreet ligula ut mauris sollicitudin dapibus.
     </string>
     <string name="share">share</string>
+    <string name="title_activity_landing_image">LandingImageActivity</string>
 </resources>

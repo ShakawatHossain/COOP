@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyCoop</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="news_title">News Title</string>
+    <string name="news_desc">
+
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a lacus bibendum nisl vulputate dapibus. Nunc sed maximus orci, sagittis ultrices sapien. Etiam metus ante, vestibulum quis metus rhoncus, dapibus gravida turpis. Donec tincidunt molestie nisi eget pharetra. Donec efficitur sapien ut commodo tristique. Fusce rutrum ante quam, id volutpat orci dignissim sed. Aliquam purus nulla, eleifend at sodales non, gravida eget nunc.
+
+            Nullam tempor suscipit imperdiet. Suspendisse vel erat velit. Sed consequat elit at felis condimentum, ut pulvinar tellus dictum. Sed viverra malesuada lacus. Donec viverra faucibus diam. Sed egestas ultricies faucibus. Integer convallis, ligula id commodo iaculis, turpis nibh pellentesque nibh, vitae suscipit elit nisl non augue. Etiam euismod laoreet nisi, et efficitur ex dictum quis. Morbi vulputate id dui nec auctor. Donec suscipit dolor est, vitae scelerisque lorem blandit sed.
+
+            Duis sem libero, interdum quis ipsum non, semper sollicitudin dui. Proin quis convallis mauris. Pellentesque vel augue erat. Duis auctor pulvinar mauris vel pellentesque. Sed faucibus est eget lacus feugiat, non sollicitudin dolor cursus. Nam dui eros, cursus vel commodo a, accumsan id magna. Phasellus molestie eros at ipsum tincidunt, quis ornare tellus semper. Sed velit orci, efficitur nec orci id, hendrerit porttitor tortor. Etiam nulla ligula, lobortis et viverra vitae, efficitur ac erat. Proin laoreet augue ac laoreet blandit. Duis nec massa ante.
+
+            Etiam facilisis nunc nec tortor dictum, et malesuada est maximus. Curabitur eleifend euismod porta. Proin gravida at augue ut pellentesque. Fusce tempor urna eu massa dictum euismod. Vestibulum accumsan sem vitae dui finibus, ut cursus eros varius. Vestibulum dolor tellus, laoreet vel gravida nec, ultrices eu lacus. Nunc scelerisque vehicula arcu in suscipit. Nam pulvinar aliquet magna eget scelerisque.
+
+            Nam non neque nec justo cursus accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur iaculis vestibulum euismod. Suspendisse quis scelerisque tellus, ac viverra nibh. Fusce placerat dignissim enim, nec ornare dui mattis et. Vestibulum ut magna lorem. Suspendisse in eros accumsan eros consectetur pellentesque nec ut mi. Nullam non orci est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tristique arcu ornare, fringilla metus vitae, posuere sem. Proin vitae aliquet lacus, non pretium nisi. Pellentesque vel fermentum elit. In vulputate maximus ligula vel convallis. Curabitur laoreet ligula ut mauris sollicitudin dapibus.
+    </string>
+    <string name="share">share</string>
+</resources>
